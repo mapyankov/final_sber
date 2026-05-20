@@ -1,0 +1,10 @@
+{
+  "name": "test-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Генератор тестов из заданного текста",
+  "scripts": {
+    "dev": "node start-dev.js",
+    "install:all": "npm install && cd frontend && npm install"
+  }
+}

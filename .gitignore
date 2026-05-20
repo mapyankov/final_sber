@@ -1,0 +1,16 @@
+node_modules/
+frontend/node_modules/
+backend/venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+dist/
+frontend/dist/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+.pytest_cache/
+coverage/
